@@ -4,20 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b54296d-22d1-42bd-b969-7bcf382e5c76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="5b54296d-22d1-42bd-b969-7bcf382e5c76" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch43_UsingKotlinCodeInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch01_VariablesAndReservedKeywords.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch02_Lateinit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch03_DataTypesAndTypeInference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch04_Constants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch05_Strings_StringBuilder_StringBuffer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch06_Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch07_2DArrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch08_Conditionals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch09_Operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch10_Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch11_ConsoleInputOutput.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch12_Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch13_Exceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch14_Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch15_TypeCheckingAndSmartCasts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch16_TypeCasting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch17_ExtensionFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch18_ClassesObjectsAndConstructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch19_Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch20_Interfaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch21_PropertyGetterAndSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch22_DataClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch23_DestructingDeclarations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch24_EnumClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch25_SealedClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch26_LazyVsLateInit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch27_ScopeFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch28_ObjectKeyword.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch29_Delegation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch30_NullSafetyAndNullAssertion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch31_AnyAndNothing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch32_Generics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch33_LambdasAndFunctionTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch34_HigherOrderFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch35_InlineFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch36_PairsAndTriples.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch37_BasicCollections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch38_CollectionsTransformations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch39_OperatorFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch40_InfixFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch41_TypeAlias.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch42_Coroutines_SuspendFunctions_Dispatchers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch43_Flow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch44_AnnotationsAndInteroperabilityWithJava.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch45_Reflection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch46_SynchronizationWithMutex.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch47_FileInputOutput.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ch48_Sequence.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +68,37 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinCrashCourseForBeginners" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jBk2lCfAZlNCEbvjXiRvNn3NYX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,17 +107,145 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build KotlinCrashCourseForBeginners.executor": "Run",
+    "Gradle.KotlinCrashCourseForBeginners [:Ch43_UsingKotlinCodeInJava.main()].executor": "Run",
+    "Kotlin.Ch01_VariablesAndReservedKeywordsKt.executor": "Run",
+    "Kotlin.Ch01_VariablesKt.executor": "Run",
+    "Kotlin.Ch02_LateinitKt.executor": "Run",
+    "Kotlin.Ch03_DataTypesAndTypeInferenceKt.executor": "Run",
+    "Kotlin.Ch05_Strings_StringBuilder_StringBufferKt.executor": "Run",
+    "Kotlin.Ch06_ArraysKt.executor": "Run",
+    "Kotlin.Ch07_2DArraysKt.executor": "Run",
+    "Kotlin.Ch08_ConditionalsKt.executor": "Run",
+    "Kotlin.Ch09_OperatorsKt.executor": "Run",
+    "Kotlin.Ch10_ConsoleInputOutputKt.executor": "Run",
+    "Kotlin.Ch10_ExceptionsKt.executor": "Run",
+    "Kotlin.Ch10_LoopsKt.executor": "Run",
+    "Kotlin.Ch11_ConsoleInputOutputKt.executor": "Run",
+    "Kotlin.Ch11_FunctionsKt.executor": "Run",
+    "Kotlin.Ch12_RangesKt.executor": "Run",
+    "Kotlin.Ch13_ExceptionsKt.executor": "Run",
+    "Kotlin.Ch14_FunctionsKt.executor": "Run",
+    "Kotlin.Ch15_TypeCheckingAndSmartCastsKt.executor": "Run",
+    "Kotlin.Ch15_TypeCheckingKt.executor": "Run",
+    "Kotlin.Ch17_ExtensionFunctionsKt.executor": "Run",
+    "Kotlin.Ch18_ClassesObjectsAndConstructorsKt.executor": "Run",
+    "Kotlin.Ch19_InheritanceKt.executor": "Run",
+    "Kotlin.Ch1_VariablesKt.executor": "Run",
+    "Kotlin.Ch20_InterfacesKt.executor": "Run",
+    "Kotlin.Ch20_PropertyGetterAndSetterKt.executor": "Run",
+    "Kotlin.Ch21_DestructingDeclarationsKt.executor": "Run",
+    "Kotlin.Ch21_PropertyGetterAndSetterKt.executor": "Run",
+    "Kotlin.Ch22_DataClassesKt.executor": "Run",
+    "Kotlin.Ch22_EnumClassesKt.executor": "Run",
+    "Kotlin.Ch23_DestructingDeclarationsKt.executor": "Run",
+    "Kotlin.Ch23_SealedClassesKt.executor": "Run",
+    "Kotlin.Ch24_EnumClassesKt.executor": "Run",
+    "Kotlin.Ch25_SealedClassesKt.executor": "Run",
+    "Kotlin.Ch26_LazyVsLateInitKt.executor": "Run",
+    "Kotlin.Ch27_ScopeFunctionsKt.executor": "Run",
+    "Kotlin.Ch28_ObjectKeywordKt.executor": "Run",
+    "Kotlin.Ch29_DelegationKt.executor": "Run",
+    "Kotlin.Ch29_GenericsKt.executor": "Run",
+    "Kotlin.Ch2_LateinitKt.executor": "Run",
+    "Kotlin.Ch30_NullSafetyAndNullAssertionKt.executor": "Run",
+    "Kotlin.Ch32_GenericsKt.executor": "Run",
+    "Kotlin.Ch33_InlineFunctionsKt.executor": "Run",
+    "Kotlin.Ch33_LambdasAndFunctionTypesKt.executor": "Run",
+    "Kotlin.Ch34_HigherOrderFunctionsKt.executor": "Run",
+    "Kotlin.Ch35_InlineFunctionsKt.executor": "Run",
+    "Kotlin.Ch36_CollectionsTransformationsKt.executor": "Run",
+    "Kotlin.Ch36_PairsAndTriplesKt.executor": "Run",
+    "Kotlin.Ch37_BasicCollectionsKt.executor": "Run",
+    "Kotlin.Ch38_CollectionsTransformationsKt.executor": "Run",
+    "Kotlin.Ch38_CoroutinesKt.executor": "Run",
+    "Kotlin.Ch39_FlowKt.executor": "Run",
+    "Kotlin.Ch39_OperatorFunctionsKt.executor": "Run",
+    "Kotlin.Ch3_DataTypesAndTypeInferenceKt.executor": "Run",
+    "Kotlin.Ch40_FlowKt.executor": "Run",
+    "Kotlin.Ch40_InfixFunctionsKt.executor": "Run",
+    "Kotlin.Ch41_TypeAliasKt.executor": "Run",
+    "Kotlin.Ch42_Coroutines_SuspendFunctions_DispatchersKt.executor": "Run",
+    "Kotlin.Ch43_FlowKt.executor": "Run",
+    "Kotlin.Ch47_FileInputOutputKt.executor": "Run",
+    "Kotlin.Ch48_SequenceKt.executor": "Run",
+    "Kotlin.Ch4_StringsKt.executor": "Run",
+    "Kotlin.Ch5_ArraysKt.executor": "Run",
+    "Kotlin.Ch6_2DArraysKt.executor": "Run",
+    "Kotlin.Ch7_ConditionalsKt.executor": "Run",
+    "Kotlin.Ch8_LoopsKt.executor": "Run",
+    "Kotlin.Ch9_RangesKt.executor": "Run",
+    "Kotlin.LateinitKt (1).executor": "Run",
+    "Kotlin.LateinitKt.executor": "Run",
+    "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "com.codeium.snoozedEndTime": "0",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
-  },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "/Users/sunil/.gradle"
-    ]
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sunil/Intellij/KotlinCrashCourseForBeginners/src/main/kotlin",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Ch38_CollectionsTransformationsKt">
+    <configuration name="Ch02_LateinitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch02_LateinitKt" />
+      <module name="KotlinCrashCourseForBeginners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch38_CollectionsTransformationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch38_CollectionsTransformationsKt" />
+      <module name="KotlinCrashCourseForBeginners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch42_Coroutines_SuspendFunctions_DispatchersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch42_Coroutines_SuspendFunctions_DispatchersKt" />
+      <module name="KotlinCrashCourseForBeginners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch47_FileInputOutputKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch47_FileInputOutputKt" />
+      <module name="KotlinCrashCourseForBeginners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch48_SequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch48_SequenceKt" />
+      <module name="KotlinCrashCourseForBeginners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ch38_CollectionsTransformationsKt" />
+        <item itemvalue="Kotlin.Ch02_LateinitKt" />
+        <item itemvalue="Kotlin.Ch48_SequenceKt" />
+        <item itemvalue="Kotlin.Ch47_FileInputOutputKt" />
+        <item itemvalue="Kotlin.Ch42_Coroutines_SuspendFunctions_DispatchersKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +255,51 @@
       <option name="presentableId" value="Default" />
       <updated>1720867653016</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1720870958433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720870958433</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1720871005333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720871005333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Ch21_PropertyGetterAndSetter.kt</url>
+          <line>18</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Ch22_DataClasses.kt</url>
+          <line>13</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
