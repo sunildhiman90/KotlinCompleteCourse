@@ -6,53 +6,52 @@ Welcome to Kotlin Full Course, In this course, you will learn about Kotlin.
 Whether you are Looking to dive into Android App Development, Kotlin Multiplatform Development or Backend Development, You need to learn Koltin first and This crash course has you covered. Learn What is essential. We have covered 48 modules in this course.
 This repo is part of [Kotlin Full Course](https://youtu.be/8uEYI6lTGps) video on my youtube channel.
 
-All Chapters   
-Ch01: Variables & Reserved Keywords  
-Ch02: lateinit Variables  
-Ch03: Data Types & Type Inference  
-Ch04: Constants  
-Ch05: Strings, StringBuilder & StringBuffer  
-Ch06: Arrays  
-Ch07: 2 Dimensional Arrays  
-Ch08: Conditionals  
-Ch09: Operators  
-Ch10: Loops  
-Ch11: Console Input Output  
-Ch12: Ranges  
-Ch13: Exceptions  
-Ch14: Functions  
-Ch15: Type Checking and Smart Casts  
-Ch16: Type Casting  
-Ch17: Extension Functions  
-Ch18: Classes, Objects and Constructors  
-Ch19: Inheritance  
-Ch20: Interfaces  
-Ch21: Property Getters and Setters  
-Ch22: Data Classes  
-Ch23: Destructuring Declarations  
-Ch24: Enum Classes  
-Ch25: Sealed Classes  
-Ch26: Lazy vs lateinit  
-Ch27: Scope Functions  
-Ch28: Object Keyword  
-Ch29: Delegation  
-Ch30: Null Safety and Not Null Assertion  
-Ch31: Any and Nothing  
-Ch32: Generics  
-Ch33: Lambdas & Function Types  
-Ch34: Higher Order Functions  
-Ch35: Kotlin Inline Functions  
-Ch36: Pairs & Triplets  
-Ch37: Basic Collections  
-Ch38: Collections Transformations  
-Ch39: Kotlin Operator Functions  
-Ch40: Kotlin Infix Functions  
-Ch41: Kotlin Typealias  
-Ch42: Kotlin Coroutines, Suspend Functions & Coroutine Dispatchers  
-Ch43: Kotlin Flows  
-Ch44: Annotations & Kotlin Interoperability With Java  
-Ch45: Reflection in Kotlin  
-Ch46: Synchronization & Kotlin Mutex  
-Ch47: File Handling & File Input/Output  
-Ch48: [Sequences ](src/main/kotlin/Ch48_Sequence.kt) 
-
+## All Chapters
+### Ch01: [Variables & Reserved Keywords](src/main/kotlin/Ch01_VariablesAndReservedKeywords.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=441)
+### Ch02: [lateinit Variables](src/main/kotlin/Ch02_Lateinit.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=584)
+### Ch03: [Data Types & Type Inference](src/main/kotlin/Ch03_DataTypesAndTypeInference.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=895)
+### Ch04: [Constants](src/main/kotlin/Ch04_Constants.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=1257)
+### Ch05: [Strings, StringBuilder & StringBuffer](src/main/kotlin/Ch05_Strings_StringBuilder_StringBuffer.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=1418)
+### Ch06: [Arrays](src/main/kotlin/Ch06_Arrays.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=2216)
+### Ch07: [2 Dimensional Arrays](src/main/kotlin/Ch07_2DArrays.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=2820)
+### Ch08: [Conditionals](src/main/kotlin/Ch08_Conditionals.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=3326)
+### Ch09: [Operators](src/main/kotlin/Ch09_Operators.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=3821)
+### Ch10: [Loops](src/main/kotlin/Ch10_Loops.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=4349)
+### Ch11: [Console Input Output](src/main/kotlin/Ch11_ConsoleInputOutput.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=4781)
+### Ch12: [Ranges](src/main/kotlin/Ch12_Ranges.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=4985)
+### Ch13: [Exceptions](src/main/kotlin/Ch13_Exceptions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=5301)
+### Ch14: [Functions](src/main/kotlin/Ch14_Functions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=5740)
+### Ch15: [Type Checking and Smart Casts](src/main/kotlin/Ch15_TypeCheckingAndSmartCasts.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=6190)
+### Ch16: [Type Casting](src/main/kotlin/Ch16_TypeCasting.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=6526)
+### Ch17: [Extension Functions](src/main/kotlin/Ch17_ExtensionFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=6743)
+### Ch18: [Classes, Objects and Constructors](src/main/kotlin/Ch18_ClassesObjectsAndConstructors.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=6984)
+### Ch19: [Inheritance](src/main/kotlin/Ch19_Inheritance.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=7854)
+### Ch20: [Interfaces](src/main/kotlin/Ch20_Interfaces.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=8311)
+### Ch21: [Property Getters and Setters](src/main/kotlin/Ch21_PropertyGetterAndSetter.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=9044)
+### Ch22: [Data Classes](src/main/kotlin/Ch22_DataClasses.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=9617)
+### Ch23: [Destructuring Declarations](src/main/kotlin/Ch23_DestructingDeclarations.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=10050)
+### Ch24: [Enum Classes](src/main/kotlin/Ch24_EnumClasses.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=10193)
+### Ch25: [Sealed Classes](src/main/kotlin/Ch25_SealedClasses.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=10518)
+### Ch26: [Lazy vs lateinit](src/main/kotlin/Ch26_LazyVsLateInit.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=11015)
+### Ch27: [Scope Functions](src/main/kotlin/Ch27_ScopeFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=11367)
+### Ch28: [Object Keyword](src/main/kotlin/Ch28_ObjectKeyword.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=12499)
+### Ch29: [Delegation](src/main/kotlin/Ch29_Delegation.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=12854)
+### Ch30: [Null Safety and Not Null Assertion](src/main/kotlin/Ch30_NullSafetyAndNullAssertion.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=12931)
+### Ch31: [Any and Nothing](src/main/kotlin/Ch31_AnyAndNothing.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=13243)
+### Ch32: [Generics](src/main/kotlin/Ch32_Generics.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=13563)
+### Ch33: [Lambdas & Function Types](src/main/kotlin/Ch33_LambdasAndFunctionTypes.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=14250)
+### Ch34: [Higher Order Functions](src/main/kotlin/Ch34_HigherOrderFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=14745)
+### Ch35: [Kotlin Inline Functions](src/main/kotlin/Ch35_InlineFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=15228)
+### Ch36: [Pairs & Triplets](src/main/kotlin/Ch36_PairsAndTriples.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=15814)
+### Ch37: [Basic Collections](src/main/kotlin/Ch37_BasicCollections.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=16175)
+### Ch38: [Collections Transformations](src/main/kotlin/Ch38_CollectionsTransformations.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=16900)
+### Ch39: [Kotlin Operator Functions](src/main/kotlin/Ch39_OperatorFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=17374)
+### Ch40: [Kotlin Infix Functions](src/main/kotlin/Ch40_InfixFunctions.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=17761)
+### Ch41: [Kotlin Typealias](src/main/kotlin/Ch41_TypeAlias.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=18032)
+### Ch42: [Kotlin Coroutines, Suspend Functions & Coroutine Dispatchers](src/main/kotlin/Ch42_Coroutines_SuspendFunctions_Dispatchers.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=18340)
+### Ch43: [Kotlin Flows](src/main/kotlin/Ch43_Flow.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=19476)
+### Ch44: [Annotations & Kotlin Interoperability With Java](src/main/kotlin/Ch44_AnnotationsAndInteroperabilityWithJava.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=19730)
+### Ch45: [Reflection in Kotlin](src/main/kotlin/Ch45_Reflection.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=19998)
+### Ch46: [Synchronization & Kotlin Mutex](src/main/kotlin/Ch46_SynchronizationWithMutex.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=20220)
+### Ch47: [File Handling & File Input/Output](src/main/kotlin/Ch47_FileInputOutput.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=20725)
+### Ch48: [Sequences](src/main/kotlin/Ch48_Sequence.kt) – [Watch Here](https://youtu.be/8uEYI6lTGps?t=21002)
